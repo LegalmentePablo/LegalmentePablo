@@ -3,9 +3,8 @@
   <h3>Ingeniero de software | Ingeniero de Sistemas</h3>
   <p>Enfocado en desarrollo de producto, cloud, datos y automatización.</p>
   <p>
-    <a href="https://portafolio-weld-omega.vercel.app">Portafolio</a> ·
-    <a href="https://www.linkedin.com/in/pbuitragom/">LinkedIn</a> ·
-    <a href="https://github.com/LegalmentePablo">GitHub</a>
+    <a href="https://portafolio-tau-ruddy-65.vercel.app/">Portafolio</a> ·
+    <a href="https://www.linkedin.com/in/pbuitragom/">LinkedIn</a>
   </p>
 </div>
 
