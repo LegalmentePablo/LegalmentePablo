@@ -77,7 +77,7 @@ Como Ingeniero de Sistemas, combino disciplina y criterio técnico para entregar
 ## Educación
 
 - **Especialización en Ciencia de Datos e Inteligencia Artificial**  
-  Universidad de Medellín · `07/2025 - Pausado`
+  Universidad de Medellín · `2026 - Presente`
 
 - **Ingeniería de Sistemas**  
   Universidad de Medellín · `08/2018 - 12/2025`
