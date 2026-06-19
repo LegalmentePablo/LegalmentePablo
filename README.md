@@ -40,7 +40,7 @@ Como Ingeniero de Sistemas, combino disciplina y criterio técnico para entregar
 ## Experiencia profesional
 
 - **Software Development Engineer** en **Stellion Tech S.A.S**  
-  `09/2022 - 01/2026`  
+  `09/2023 - 11/2025`  
   Gestioné y optimicé bases de datos, implementé infraestructura como código (IaC) en AWS y desarrollé aplicaciones web con React/Vite + TypeScript.
 
 - **Freelance** en **InGrapes**  
